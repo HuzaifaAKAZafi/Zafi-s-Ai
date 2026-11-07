@@ -1,0 +1,6 @@
+{
+  "name": "Zafi's AI - Multi-Model AI Studio",
+  "description": "Zafi's AI - Unified AI chat interface supporting Google Gemini, Groq, DeepSeek, and custom models with real-time streaming.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
